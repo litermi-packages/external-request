@@ -10,9 +10,9 @@ The `External Request` is a package to send request to others api-rest .
 
 ## Installation
 
-Require the `litermi/external-request` package in your `composer.json` and update your dependencies:
+Require the `litermi-packages/external-request` package in your `composer.json` and update your dependencies:
 ```sh
-composer require litermi/external-request
+composer require litermi-packages/external-request
 ```
 
 

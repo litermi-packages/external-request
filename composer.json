@@ -1,5 +1,5 @@
 {
-    "name": "litermi/external-request",
+    "name": "litermi-packages/external-request",
     "description": "The External Request is a package to send request to others api-rest .",
     "type": "library",
     "license": "MIT",
@@ -15,8 +15,8 @@
         "illuminate/contracts": "^7.20|^8.19|^9.0|^10.0|^11.0",
         "illuminate/config": "^7.20|^8.19|^9.0|^10.0|^11.0",
         "guzzlehttp/guzzle": "^6.3.1|^7.0.1",
-        "litermi/simple-notification": "^1.0",
-        "litermi/logs": "^1.0",
+        "litermi-packages/simple-notification": "^1.0",
+        "litermi-packages/logs": "^1.0",
         "halaxa/json-machine": "dev-master"
     },
     "autoload": {
