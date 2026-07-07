@@ -100,6 +100,7 @@ class ExternalServiceRequestService
             }
         }
 
+
         $content = "";
         $response = $client->request($method, $requestPath, $formAndHeader);
         if ($pureResponse === true) {
